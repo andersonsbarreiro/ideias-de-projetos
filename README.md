@@ -28,3 +28,4 @@ Ideias de projetos para aprender novas tecnologias.
 - Um chat simples
 - Um chat privado
 - Um chat inspirado no Whatsapp feito com React Native
+- Um gerador de players
