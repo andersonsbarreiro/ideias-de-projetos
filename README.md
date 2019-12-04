@@ -1,8 +1,28 @@
 # ideias-de-projetos
 
-Ideias de projetos para aprender novas tecnologias.
+Ideias de projetos para aprender novos assuntos tecnológicos.
 
-# Tecnologias
+# Assuntos
+
+- Laravel
+- React
+- Markdown
+- GitHub Actions
+- CI/CD
+- Docker
+- Git/GitHub
+- Express
+- WebSockets
+- Adonis
+- TypeScript
+- NestJS
+- Vue
+- Bootstrap
+- Bulma
+- TailwindCSS
+- React Native
+
+## Ordenados
 
 - Laravel
 - React
