@@ -51,4 +51,4 @@ Ideias de projetos para aprender novos assuntos tecnológicos.
 - Um gerador de players
 - Bot para discord utilizando Discord.JS, TypeScript e Yarn
 - Site de mangá
-- Site vídeos
+- Site de vídeos
