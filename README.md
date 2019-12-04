@@ -50,3 +50,5 @@ Ideias de projetos para aprender novos assuntos tecnológicos.
 - Um chat inspirado no Whatsapp feito com React Native
 - Um gerador de players
 - Bot para discord utilizando Discord.JS, TypeScript e Yarn
+- Site de mangá
+- Site vídeos
