@@ -4,38 +4,20 @@ Ideias de projetos para aprender novos assuntos tecnológicos.
 
 # Assuntos
 
-- Laravel
-- React
-- Markdown
-- GitHub Actions
-- CI/CD
-- Docker
+- Laravel, React/Native
 - Git/GitHub
-- Express
-- WebSockets
+- Express, WebSockets
 - Adonis
-- TypeScript
-- NestJS
-- Vue
-- Bootstrap
-- Bulma
-- TailwindCSS
-- React Native
+- TypeScript, NestJS, Vue
+- Bootstrap, Bulma, TailwindCSS
 
 ## Ordenados
 
-- Laravel
-- React
-- Express
-- WebSockets
+- Laravel, React, React Native
+- Express, WebSockets
 - Adonis
-- TypeScript
-- NestJS
-- Vue
-- Bootstrap
-- Bulma
-- TailwindCSS
-- React Native
+- TypeScript, NestJS, Vue
+- Bootstrap, Bulma, TailwindCSS
 
 # Ideias de projetos
 
