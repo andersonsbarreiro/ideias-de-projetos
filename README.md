@@ -1,4 +1,4 @@
-# ideias-de-projetos
+# Ideias de projetos
 
 Ideias de projetos para aprender novos assuntos tecnológicos.
 
