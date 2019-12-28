@@ -2,26 +2,8 @@
 
 Ideias de projetos para aprender novos assuntos tecnológicos.
 
-# Assuntos
-
-- Laravel, React/Native
-- Git/GitHub
-- Express, WebSockets
-- Adonis
-- TypeScript, NestJS, Vue
-- Bootstrap, Bulma, TailwindCSS
-
-## Ordenados
-
-- Laravel, React, React Native
-- Express, WebSockets
-- Adonis
-- TypeScript, NestJS, Vue
-- Bootstrap, Bulma, TailwindCSS
-
-# Ideias de projetos
-
 - Uma API de filmes
+- Um desktop app do YouTube
 - Um ecommerce básico com Bootstrap
 - Uma UI feita com React Hooks para buscar filmes na API de filmes
 - Uma UI feita com React Hooks para buscar filmes em alguma API de filmes (ex: TMDB, OMDB, etc)
