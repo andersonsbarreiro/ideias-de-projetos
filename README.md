@@ -2,6 +2,7 @@
 
 Ideias de projetos para aprender novos assuntos tecnológicos.
 
+- [ ] Clone do Pastebin
 - [x] Uma API de filmes
 - [ ] Um desktop app do YouTube com Electron
 - [ ] Um ecommerce básico com Bootstrap
