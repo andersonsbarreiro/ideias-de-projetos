@@ -3,6 +3,7 @@
 Ideias de projetos para aprender novos assuntos tecnológicos.
 
 - [ ] Clone do Pastebin
+- [ ] Clone do Instagram
 - [x] Uma API de filmes
 - [ ] Um desktop app do YouTube com Electron
 - [ ] Um ecommerce básico com Bootstrap
@@ -15,5 +16,4 @@ Ideias de projetos para aprender novos assuntos tecnológicos.
 - [ ] Um chat inspirado no Whatsapp feito com React Native
 - [ ] Um gerador de players
 - [ ] Bot para discord utilizando Discord.JS, TypeScript e Yarn
-- [ ] Site de mangá
 - [ ] Site de vídeos
