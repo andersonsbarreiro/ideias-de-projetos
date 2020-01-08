@@ -3,6 +3,8 @@
 Ideias de projetos para aprender novos assuntos tecnológicos.
 
 - [ ] Clone do Pastebin
+- [ ] Um fórum
+- [ ] Um cliente do YouTube que utiliza a API do mesmo
 - [ ] Clone do Instagram
 - [x] Uma API de filmes
 - [ ] Um desktop app do YouTube com Electron
