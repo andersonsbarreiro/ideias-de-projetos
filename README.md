@@ -1,8 +1,10 @@
 # Ideias de projetos
 
-Ideias de projetos para aprender novos assuntos tecnológicos.
+Ideias de projetos para aprender novos assuntos tecnológicos sem fins comerciais.
 
 - [ ] Clone do Pastebin
+- [ ] Clone do Twitter
+- [ ] Clone do Todoist
 - [ ] Um fórum
 - [ ] Um cliente do YouTube que utiliza a API do mesmo
 - [ ] Clone do Instagram
