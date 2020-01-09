@@ -4,6 +4,7 @@ Ideias de projetos para aprender novos assuntos tecnológicos sem fins comerciai
 
 - [ ] Landing page básica
 - [ ] Dashboards
+- [ ] Clone do Facebook
 - [ ] Clone do Pastebin
 - [ ] Clone do Twitter
 - [ ] Clone do Todoist
