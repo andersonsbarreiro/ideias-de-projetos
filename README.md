@@ -3,6 +3,7 @@
 Ideias de projetos para aprender novos assuntos tecnológicos sem fins comerciais.
 
 - [ ] Landing page básica
+- [ ] Clone da OLX
 - [ ] Dashboards
 - [ ] Clone do Facebook
 - [ ] Clone do Pastebin
