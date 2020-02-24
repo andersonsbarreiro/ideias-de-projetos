@@ -3,6 +3,9 @@
 Ideias de projetos para aprender novos assuntos tecnológicos sem fins comerciais.
 
 - [ ] Landing page básica
+- [ ] ERP
+- [ ] CRM
+- [ ] Gestão de escolas
 - [ ] Criar um cliente do GitHub
 - [ ] Clone da OLX
 - [ ] Dashboards
