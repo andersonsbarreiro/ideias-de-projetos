@@ -2,6 +2,8 @@
 
 Ideias de projetos para aprender novos assuntos tecnológicos sem fins comerciais.
 
+- [ ] Blog
+- [ ] Sistema de cadastro
 - [ ] Landing page básica
 - [ ] ERP
 - [ ] CRM
