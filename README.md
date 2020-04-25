@@ -2,9 +2,12 @@
 
 Ideias de projetos para aprender novos assuntos tecnológicos sem fins comerciais.
 
+**PS.: Utilize algum framework de estilos como Tailwind, Bootstrap ou Bulma ou algum template para o front-end.**
+
 - [ ] Blog
 - [ ] Sistema de cadastro
 - [ ] Landing page básica
+- [ ] Forum
 - [ ] ERP
 - [ ] CRM
 - [ ] Gestão de escolas
