@@ -34,4 +34,5 @@ Ideias de projetos para aprender novos assuntos tecnológicos sem fins comerciai
 - [ ] Um chat inspirado no Whatsapp feito com React Native
 - [ ] Um gerador de players
 - [ ] Bot para discord utilizando Discord.JS, TypeScript e Yarn
+- [ ] Bot para Twitter utilizando NodeJS, Twit, e a API do Twitter
 - [ ] Site de vídeos
